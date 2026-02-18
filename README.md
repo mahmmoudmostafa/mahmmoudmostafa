@@ -6,7 +6,6 @@ Experienced in HTML, CSS, JavaScript, and React, with a strong focus on performa
 
 ---
 
-## 🌐 Socials:
 
 ## 🌐 Socials:
 
