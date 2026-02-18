@@ -1,13 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Mostafa</h1>
-<h3 align="center">Frontend Developer | React & Next.js Enthusiast</h3>
+# 👋 About Me:
+
+Hi, I'm Mahmoud 👋  
+Front-End Developer passionate about building scalable and user-focused web applications.  
+Experienced in HTML, CSS, JavaScript, and React, with a strong focus on performance, clean architecture, and modern UI.
 
 ---
+
+## 🌐 Socials:
 
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahmmoudmosstafaa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mahmmoudmostafaa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud.ownhero@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/413627730798706688)
+
 
 ---
 
@@ -32,6 +39,8 @@
 
 ## 📊 GitHub Stats:
 
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmmoudmostafa&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahmmoudmostafa&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmmoudmostafa&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=mahmmoudmostafa&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmmoudmostafa&layout=compact&theme=tokyonight&hide_border=true)
